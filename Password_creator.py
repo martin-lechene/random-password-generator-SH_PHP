@@ -7,59 +7,6 @@
 # Version: 1.0
 #
 ################################################################################
-# Script Name: Password_creator.py
-# Description: Description du script.
-#
-# Created by: Martin Lechêne
-# Date: 19/07/2023
-# Version: 1.0
-#
-################################################################################
-# Script Name: Password_creator.py
-# Description: Description du script.
-#
-# Created by: Martin Lechêne
-# Date: 19/07/2023
-# Version: 1.0
-#
-################################################################################
-# Script Name: Password_creator.py
-# Description: Description du script.
-#
-# Created by: Martin Lechêne
-# Date: 19/07/2023
-# Version: 1.0
-#
-################################################################################
-# Script Name: Password_creator.py
-# Description: Description du script.
-#
-# Created by: Martin Lechêne
-# Date: 19/07/2023
-# Version: 1.0
-#
-################################################################################
-# Script Name: Password_creator.py
-# Description: Description du script.
-#
-# Created by: Martin Lechêne
-# Date: 19/07/2023
-# Version: 1.0
-#
-
-################################################################################
-# Script Name: nom_du_script.py
-# Description: Description du script.
-# 
-# Created by: Votre Nom
-# Date: DD/MM/YYYY
-# Version: 1.0
-# 
-# Changelog:
-# -  DD/MM/YYYY: Description de la mise à jour.
-#
-################################################################################
-
 
 #Importing statement required.
 import random
